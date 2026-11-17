@@ -31,4 +31,4 @@ I work on mobile architecture, native modules and CI/CD, and I contribute fixes 
 
 ### Contact
 
-[LinkedIn]((https://www.linkedin.com/in/ankit-jha-32157329a/))
+[LinkedIn](https://www.linkedin.com/in/ankit-jha-32157329a/)
